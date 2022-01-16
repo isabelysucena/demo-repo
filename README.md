@@ -1,2 +1,2 @@
-# A Heading
-## A Subheading
+# Demo
+Just some text
